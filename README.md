@@ -7,3 +7,5 @@
 我试了下蓝灯、赛风这种proxy类的翻墙工具，  
 都不能给BTSync前置代理(ShadowSocks没试过估计也不行)  
 只能用连VPN去使用BYSync同步编程随想的博客和电子书
+
+我试了下ExpressVPN和OpenVPN都能正常使用BTSync
