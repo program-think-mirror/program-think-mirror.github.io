@@ -1,8 +1,8 @@
 body {
   margin: 0px;
   font-size: small;
-  background-color: #f0f0f0;
-  color: #000000;
+  background-color: WhiteSmoke;
+  color: Black;
 }
 #main {
   float: left;
@@ -39,13 +39,13 @@ h4 {
 .post-info .date-header {
   font-size: 125%;
   padding: 1px 50px 1px 20px;
-  color: #808080;
+  color: Gray;
 }
 
 .post-info .tag {
   font-size: 100%;
   padding: 1px;
-  padding-left: 15px;
+  margin-left: 15px;
 }
 
 .post {
@@ -122,25 +122,25 @@ a:visited {
 }
 #sidebar {
   text-transform: none;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: White;
+  color: Black;
   padding-left: 20px;
   width: 30%;
   float: right;
   font: normal normal 100% 'Trebuchet MS', verdana, sans-serif;
-  border-left: 2px dashed #000000;
+  border-left: 2px dashed Black;
   word-wrap: break-word;
   overflow: hidden;
 }
 .sidebar h2 {
   font-weight: bold;
   font-size: 120%;
-  color: #000000;
+  color: Black;
 }
 .sidebar h3 {
   font-weight: bold;
   font-size: 100%;
-  color: #000000;
+  color: Black;
 }
 .sidebar .widget {
   padding: 4px 8px 0px 0px;
